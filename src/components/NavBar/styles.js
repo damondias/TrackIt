@@ -19,3 +19,5 @@ const Container = styled.div`
         border-radius: 50%;
     }
 `;
+
+export { Container };
